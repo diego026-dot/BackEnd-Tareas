@@ -1,1 +1,1 @@
-{"ContentRoots":["C:\\Users\\Diego\\source\\repos\\ApiJugadores\\ApiJugadores\\wwwroot\\"],"Root":{"Children":null,"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
+{"ContentRoots":["C:\\Users\\Diego\\source\\repos\\ApiJugadores\\ApiJugadores\\wwwroot\\"],"Root":{"Children":{"Diego.txt":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"Diego.txt"},"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}

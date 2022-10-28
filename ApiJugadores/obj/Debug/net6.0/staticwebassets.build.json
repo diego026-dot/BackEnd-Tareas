@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "s8PcYbnkjkRZRKRtesfB/w3/GdLzPWL6GVezbkc4TqI=",
+  "Hash": "J5uhec87FFc2gDe1VhTmIrSpC6fYiwdkbM0rXlVfItA=",
   "Source": "ApiJugadores",
   "BasePath": "_content/ApiJugadores",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiJugadores\\wwwroot",
+      "Source": "ApiJugadores",
+      "ContentRoot": "C:\\Users\\Diego\\source\\repos\\ApiJugadores\\ApiJugadores\\wwwroot\\",
+      "BasePath": "_content/ApiJugadores",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

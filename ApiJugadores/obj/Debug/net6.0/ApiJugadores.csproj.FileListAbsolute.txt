@@ -60,3 +60,6 @@ C:\Users\Diego\source\repos\ApiJugadores\ApiJugadores\bin\Debug\net6.0\runtimes\
 C:\Users\Diego\source\repos\ApiJugadores\ApiJugadores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Diego\source\repos\ApiJugadores\ApiJugadores\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Diego\source\repos\ApiJugadores\ApiJugadores\bin\Debug\net6.0\ApiJugadores.staticwebassets.runtime.json
+C:\Users\Diego\source\repos\ApiJugadores\ApiJugadores\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Diego\source\repos\ApiJugadores\ApiJugadores\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Diego\source\repos\ApiJugadores\ApiJugadores\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

@@ -8,8 +8,8 @@
 
         public string Pais { get; set; }
 
-        public int JugadorId { get; set; }
+        public List<JugadorEquipo> JugadorEquipo { get; set; }
 
-        public Jugador Jugador { get; set; }
+
     }
 }

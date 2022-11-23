@@ -33,11 +33,11 @@ namespace ApiJugadores.Controllers
 
         public async Task<ActionResult> Post(Equipo equipo)
         {
-            var existeJugador = await dbContext.jugadores.AnyAsync(x => x.Id == equipo.JugadorId);
+            var existeJugador = await dbContext.jugadores.AnyAsync(x => x.Id == equipo.Id);
 
             if (!existeJugador)
             {
-                return BadRequest($"No existe el jugador con el id:{equipo.JugadorId}");    
+                return BadRequest($"No existe el jugador con el id:{equipo.Id}");    
             }
             
             dbContext.Add(equipo);
